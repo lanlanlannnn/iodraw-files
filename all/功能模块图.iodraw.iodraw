@@ -16,8 +16,11 @@
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-4" value="店员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="263" y="362" width="81" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="f2t1r5L39FsqsHzwUQ0L-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-5" target="f2t1r5L39FsqsHzwUQ0L-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-5" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="26" y="221" width="57" height="42" as="geometry" />
+          <mxGeometry x="35" y="221" width="57" height="42" as="geometry" />
         </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-10" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="271" y="208" width="57" height="42" as="geometry" />
