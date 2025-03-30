@@ -84,7 +84,7 @@
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-17" value="寄养订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="431" y="263" width="81" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f2t1r5L39FsqsHzwUQ0L-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-18">
+        <mxCell id="f2t1r5L39FsqsHzwUQ0L-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="475" y="262.8000183105469" as="targetPoint" />
           </mxGeometry>
@@ -124,9 +124,6 @@
         </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-47" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
           <mxGeometry x="300" y="195" width="120" height="13" as="geometry" />
-        </mxCell>
-        <mxCell id="f2t1r5L39FsqsHzwUQ0L-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.137;entryY=0.657;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-4" target="f2t1r5L39FsqsHzwUQ0L-16">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
