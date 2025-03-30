@@ -124,7 +124,10 @@
           <mxGeometry x="300" y="195" width="120" height="13" as="geometry" />
         </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-57" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
-          <mxGeometry x="310" y="260" width="120" height="12" as="geometry" />
+          <mxGeometry x="475" y="250" width="120" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="f2t1r5L39FsqsHzwUQ0L-58" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
+          <mxGeometry x="320" y="270" width="120" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
