@@ -19,9 +19,10 @@
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-5" target="f2t1r5L39FsqsHzwUQ0L-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f2t1r5L39FsqsHzwUQ0L-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-5">
+        <mxCell id="f2t1r5L39FsqsHzwUQ0L-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="312.4000244140625" y="590.7998657226562" as="targetPoint" />
+            <mxPoint x="287.7000244140625" y="676.7998657226562" as="targetPoint" />
+            <mxPoint x="38.8" y="349" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-5" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
