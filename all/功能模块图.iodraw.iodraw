@@ -81,8 +81,11 @@
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-15" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="92" width="57" height="42" as="geometry" />
         </mxCell>
+        <mxCell id="f2t1r5L39FsqsHzwUQ0L-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-16" target="f2t1r5L39FsqsHzwUQ0L-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-16" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="362" width="57" height="42" as="geometry" />
+          <mxGeometry x="446" y="362" width="57" height="42" as="geometry" />
         </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-17" value="寄养订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="431" y="263" width="81" height="30" as="geometry" />
