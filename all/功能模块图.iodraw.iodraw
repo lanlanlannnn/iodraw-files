@@ -17,7 +17,7 @@
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-2" value="系统管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="263" y="263" width="81" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f2t1r5L39FsqsHzwUQ0L-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-3" target="f2t1r5L39FsqsHzwUQ0L-18">
+        <mxCell id="f2t1r5L39FsqsHzwUQ0L-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-3" target="f2t1r5L39FsqsHzwUQ0L-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-3" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -90,7 +90,7 @@
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-18" value="提交" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="446" y="208" width="57" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="f2t1r5L39FsqsHzwUQ0L-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-19" target="f2t1r5L39FsqsHzwUQ0L-20">
+        <mxCell id="f2t1r5L39FsqsHzwUQ0L-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-19" target="f2t1r5L39FsqsHzwUQ0L-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-19" value="写" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
