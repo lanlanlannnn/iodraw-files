@@ -90,7 +90,7 @@
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-17" value="寄养订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="431" y="263" width="81" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f2t1r5L39FsqsHzwUQ0L-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-18">
+        <mxCell id="f2t1r5L39FsqsHzwUQ0L-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="475" y="262.8000183105469" as="targetPoint" />
           </mxGeometry>
