@@ -11,7 +11,7 @@
           <mxGeometry x="260" y="233" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-3" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="151" width="81" height="30" as="geometry" />
+          <mxGeometry x="263" y="164" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-4" value="店员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="305" width="81" height="30" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="35" y="200" width="57" height="63" as="geometry" />
         </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-6" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="45" y="210" width="57" height="63" as="geometry" />
+          <mxGeometry x="191" y="83" width="57" height="63" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
