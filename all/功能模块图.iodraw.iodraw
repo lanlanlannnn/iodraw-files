@@ -81,11 +81,6 @@
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-15" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="165" y="92" width="57" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="f2t1r5L39FsqsHzwUQ0L-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="475" y="250" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-16" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="448" y="362" width="57" height="42" as="geometry" />
         </mxCell>
@@ -127,6 +122,9 @@
         </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-47" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
           <mxGeometry x="300" y="195" width="120" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="f2t1r5L39FsqsHzwUQ0L-57" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="120" height="12" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
