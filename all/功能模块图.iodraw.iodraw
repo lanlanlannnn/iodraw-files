@@ -31,6 +31,12 @@
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-13" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="128" y="263" width="81" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="f2t1r5L39FsqsHzwUQ0L-14" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="135" y="160" width="57" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="f2t1r5L39FsqsHzwUQ0L-15" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="170" width="57" height="42" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
