@@ -23,9 +23,6 @@
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-3" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="263" y="164" width="81" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="f2t1r5L39FsqsHzwUQ0L-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-4" target="f2t1r5L39FsqsHzwUQ0L-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-4" value="店员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="271" y="368" width="81" height="30" as="geometry" />
         </mxCell>
@@ -127,6 +124,9 @@
         </mxCell>
         <mxCell id="f2t1r5L39FsqsHzwUQ0L-47" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
           <mxGeometry x="300" y="195" width="120" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="f2t1r5L39FsqsHzwUQ0L-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.137;entryY=0.657;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="f2t1r5L39FsqsHzwUQ0L-4" target="f2t1r5L39FsqsHzwUQ0L-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
